@@ -1,8 +1,8 @@
-🖼️ Text-to-Image Generator
+# 🖼️ Text-to-Image Generator
 
-A Text-to-Image application that converts natural language descriptions into AI-generated images using advanced deep learning models. This project leverages Stable Diffusion / DALL·E / Midjourney-like APIs to produce high-quality visuals from text prompts.
+### A Text-to-Image application that converts natural language descriptions into AI-generated images using advanced deep learning models. This project leverages Stable Diffusion / DALL·E / Midjourney-like APIs to produce high-quality visuals from text prompts.
 
-🚀 Features
+## 🚀 Features
 
 Convert any text description into an AI-generated image.
 
@@ -18,7 +18,7 @@ Batch generation for multiple prompts.
 
 Optional image-to-image mode for style transfer.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python (Main programming language)
 
@@ -26,7 +26,7 @@ Deep Learning Model: Stable Diffusion / DALL·E (OpenAI API) / Any available tex
 
 Web Framework: Streamlit / Flask / Gradio
 
-Libraries:
+## Libraries:
 
 torch / diffusers (if using Stable Diffusion locally)
 
